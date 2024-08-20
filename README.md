@@ -210,7 +210,7 @@ TikTokLive.newClient("bangbetmenygy")
 
 
 ```java
-TikTokLive.newClient("host-name")
+TikTokLive.newClient("halawaelkora")
 .onReconnecting((liveClient, event) ->
 {
 
@@ -229,7 +229,7 @@ General error event. You should handle this.
 
 
 ```java
-TikTokLive.newClient("host-name")
+TikTokLive.newClient("halawaelkora")
 .onError((liveClient, event) ->
 {
 
@@ -248,7 +248,7 @@ Triggered when the connection is successfully established.
 
 
 ```java
-TikTokLive.newClient("host-name")
+TikTokLive.newClient("halawaelkora")
 .onConnected((liveClient, event) ->
 {
 
